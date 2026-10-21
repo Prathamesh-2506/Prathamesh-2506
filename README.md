@@ -1,5 +1,3 @@
-📊 GitHub Activity
-
 <table>
 <tr>
 <td width="50%">
